@@ -108,6 +108,14 @@ button {
     font-size: 36px;
     color: #1F2937;
     margin: 15%;
+    margin-bottom: auto;
+}
+
+.quotebox h2 {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 200px;
+    margin-bottom: 100px;
 }
 
 .footer {
